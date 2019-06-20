@@ -1,3 +1,10 @@
-Start Date ,Start Time,End Date,End Time,Event Title ,All Day Event,No End Time,Event Description,Contact ,Contact Email,Contact Phone,Location,Category,Mandatory,Registration,Maximum,Last Date To Register
-9/5/2011,3:00:00 PM,9/5/2011,,Social Studies Dept. Meeting,N,Y,Department meeting,Chris Gallagher,cgallagher@schoolwires.com,814-555-5179,High School,2,N,N,25,9/2/2011
-9/5/2011,6:00:00 PM,9/5/2011,8:00:00 PM,Curriculum Meeting,N,N,Curriculum Meeting,Chris Gallagher,cgallagher@schoolwires.com,814-555-5179,High School,2,N,N,25,9/2/2011
+key,context,string
+identity_verifications.legacy_complete.Success,,Success
+identity_verifications.legacy_complete.Your information has been recorded. Thank you.,,Your information has been recorded. Thank you.
+identity_verifications.legacy_complete.Return to Home Page,,Return to Home Page
+identity_verifications.rate_limit.Try again later,,Try again later
+identity_verifications.rate_limit.You can try again in %{time_from_now}.,,You can try again in %{time_from_now}.
+"identity_verifications.rate_limit.We located your ID, but your question answers were wrong. You can try again in %{time_from_now}.",,"We located your ID, but your question answers were wrong. You can try again in %{time_from_now}."
+"identity_verifications.rate_limit.We couldn't locate your ID, but you can try again in %{time_from_now}.",,"We couldn't locate your ID, but you can try again in %{time_from_now}."
+"identity_verifications.rate_limit.We couldn't verify your identity right now, but you can try again in %{time_from_now}.",,"We couldn't verify your identity right now, but you can try again in %{time_from_now}."
+shared.general.save,,Save
